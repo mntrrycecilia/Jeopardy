@@ -7,8 +7,8 @@
 
 /* Style for each cell in the table */
 .table-jeopardy td, .table-jeopardy th {
-  border: 1px solid white; /* White grid lines */
-  padding: 10px; /* Adjust padding as needed */
+  border: 1px solid white; 
+  padding: 10px; 
   text-align: center; /* Center-align text */
 }
 
